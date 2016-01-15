@@ -2,5 +2,33 @@
 .row {
 	text-align: center;
 	border: 2px solid black;
-	height: 70%;
+	height: 550px;
+}
+
+#one {
+	background-color: #6BE0E4
+}
+
+#two {
+	background-color: #5AC090 
+}
+
+#three {
+	background-color: #243543 
+}
+
+#four {
+	background-color: #FFC376 
+}
+
+#five {
+	background-color: #59C191 
+}
+
+#six {
+	background-color: #6BE0E4 
+}
+
+#seven {
+	background-color: #FFC376 
 }
